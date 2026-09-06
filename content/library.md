@@ -15,11 +15,12 @@ date: 2026-07-04
 2. [mathprofi.ru](https://mathprofi.ru/) - "легендарный" сайт по высшей математике.
 3. [desmos.com](https://www.desmos.com/?lang=ru) - сборник инструментов для моделирования математических событий.
 4. [metanit.com](https://metanit.com/) - языки и технологии программирования.
-	   [metanit.com/linux](https://metanit.com/os/linux/) - командная строка Linux
+	   [metanit.com/linux](https://metanit.com/os/linux/) - командная строка Linux.
 5. [git-scm.com](https://git-scm.com/book/ru/v2) - сайт-книга о Git, системе контроля версий.
 6. [altlinux.org/vim](https://www.altlinux.org/Vim_учебник) - Vim учебник.
 7. [pravo.gov.ru](http://pravo.gov.ru/codex/) -Кодексы РФ (официальный портал правовой информации).
-8. [python.org](https://docs.python.org/ru/3.14/tutorial/index.html) - официальная документация Python
+8. [python.org](https://docs.python.org/ru/3.14/tutorial/index.html) - официальная документация Python.
+9. [моб.екатеринбург.рф](https://xn--90avg.xn--80acgfbsl1azdqr.xn--p1ai/) - каталог по библиотекам Екатеринбруга.
 
 ---
 ---
